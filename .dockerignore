@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.github
+.husky
+.gitignore
+npm-debug.log
+.env
+commitlint.config.js
+Dockerfile
+.dockerignore
